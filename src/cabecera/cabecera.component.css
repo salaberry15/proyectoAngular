@@ -1,0 +1,22 @@
+.navbar.navbar-expand-lg{
+    background-color: rgb(1, 1, 22)
+    
+    
+}
+
+i.fa-solid.fa-envelope.fa-2xl:hover{
+color: rgb(253, 1, 1);
+}
+i.fa-brands.fa-whatsapp.fa-2xl:hover{
+    color: green;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color: rgba(97, 29, 124, 0.623);
+}
+.list-group{
+    --bs-list-group-bg:transparent;
+    --bs-list-group-color:white
+}
+li.list-group-item:hover{
+    color: gray;
+}

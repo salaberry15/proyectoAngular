@@ -1,0 +1,40 @@
+{
+    "nombre": "Facundo Abel",
+    "apellido": "Salaberry",
+    "edad": "24",
+    "localidad": "Rufino, Santa Fe",
+
+    "estudios": [
+        {
+            "id": 1,
+            "titulo":"Secundario bachiller ciencias sociales",
+            "institucion":"Colegio superior 50 Rufino, Santa Fe",
+            "inicio":"2011",
+            "fin":"2016"
+        },
+        {
+            "id":2,
+            "titulo":"Tecnico en reparacion de computadoras ",
+            "institucion":"Instituto Rivadavia, Rosario",
+            "inicio":"2019",
+            "fin":"2019"
+        }
+    ],
+
+    "trabajos": [
+        {
+            "id":1,
+            "nombre":"Secretario juridico de la Dra Analia Segretin",
+            "lugar":"Rufino, Santa Fe",
+            "fecha":"De Febrero de 2017 a Diciembre del mismo año"
+        },
+        {
+            "id":2,
+            "nombre":"Secretario juridico del Dr Gerardo Salaberry",
+            "lugar":"Rufino, Santa Fe",
+            "fecha":"De Marzo de 2018 a Marzo de 2019" 
+        }
+    ]
+
+
+}
